@@ -1,4 +1,4 @@
-//updating this comment to test the web hook
+//ultrahook github https://<ipAddress>:<port>/oapi/v1/namespaces/<project>/buildconfigs/<bcName>/webhooks/<secret>/github
 
 //  OpenShift sample Node application
 var express = require('express'),
