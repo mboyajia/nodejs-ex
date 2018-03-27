@@ -1,4 +1,4 @@
-//adding in this comment to test the web hook
+//updating this comment to test the web hook
 
 //  OpenShift sample Node application
 var express = require('express'),
