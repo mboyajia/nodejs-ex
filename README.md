@@ -2,6 +2,7 @@
 
 <!-- toc -->
 Edit/commit this file with ultrahook running to demonstrate CI/CD in OCP.
+Ultrahook URL: https://<IP_address>:8443/oapi/v1/namespaces/ci-cd-demo/buildconfigs/sample-pipeline/webhooks/secret101/github
 
 - [Node.js sample app on OpenShift!](#nodejs-sample-app-on-openshift)
   * [OpenShift Origin v3 setup](#openshift-origin-v3-setup)
